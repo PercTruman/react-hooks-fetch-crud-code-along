@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Lunchables",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "candy",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "snickerBar",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
